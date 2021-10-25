@@ -175,3 +175,4 @@ G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\n
 G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\teste.cshtml.g.cs
