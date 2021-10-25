@@ -14492,6 +14492,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Views\\Home\\teste.cshtml",
+      "TargetPath": "Views\\Home\\teste.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
